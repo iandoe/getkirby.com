@@ -8,8 +8,8 @@
   <?php echo css('http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600,400italic|Source+Code+Pro:400') ?>
 
   <?php echo css(array(
-    'assets/css/kirby.css',
-    'assets/css/site.css'
+    'assets/css/kirby.min.css',
+    'assets/css/site.min.css'
   )) ?>
 
   <?php if($page->isHomePage()): ?>
