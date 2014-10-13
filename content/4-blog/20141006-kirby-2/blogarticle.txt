@@ -72,6 +72,8 @@ At the same time Kirby becomes much more affordable for personal websites and we
 
 To give every Kirby 1 user a chance to upgrade and run a commercial project with Kirby 2, we decided to offer a free professional license upgrade! Just keep your Kirby 1 license key, which will still be valid for Kirby 2.
 
+In casing of moving an existing Kirby 1 project to Kirby 2 please check out the corresponding (link: docs/installation/upgrade text: upgrade guide) in the docs!
+
 ### Voluntary upgrade packages
 
 We've heard from quite a lot of our beta users though that they still want to pay for the upgrade. This blew our minds and of course this is possible. We offer three voluntary upgrade packages. You won't get any special feature with those upgrades, but you will definitely get a very special place in our hearts!

@@ -67,7 +67,7 @@ Here's an example for a meta data file:
 Meta data is instantly available from the `$file` object in your tempaltes and snippets.
 
 ```php
-<?php if($image = $page->image('lake.jpg'): ?>
+<?php if($image = $page->image('lake.jpg')): ?>
 <figure>
   <img src="<?php echo $image->url() ?>" alt="<?php echo html($image->title()) ?>">
   <figcaption>

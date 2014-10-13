@@ -112,7 +112,7 @@ $tags = $page->children()->visible()->pluck('tags', ',', true);
 <ul class="tags">
   <?php foreach($tags as $tag): ?>
   <li>
-    <a href="<?php echo url('blog/tag:' . $tag)">
+    <a href="<?php echo url('blog/tag:' . $tag)?>">
       <?php echo html($tag) ?>
     </a>
   </li>
